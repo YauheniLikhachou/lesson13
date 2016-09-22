@@ -1,0 +1,17 @@
+[0;32mInfo: Using configured environment 'prod'[0m
+[0;32mInfo: Retrieving pluginfacts[0m
+[0;32mInfo: Retrieving plugin[0m
+[mNotice: /File[/opt/puppetlabs/puppet/cache/lib/puppet/parser/functions/ntp_dirname.rb]/ensure: removed[0m
+[0;32mInfo: Loading facts[0m
+[0;32mInfo: Caching catalog for clientpuppet.minsk.epam.com[0m
+[0;32mInfo: Applying configuration version '1474560954'[0m
+[mNotice: Nginx is installed.[0m
+[mNotice: /Stage[main]/Main/Node[clientpuppet.minsk.epam.com]/Notify[Nginx is installed.]/message: defined 'message' as 'Nginx is installed.'[0m
+[mNotice: Nginx is running.[0m
+[mNotice: /Stage[main]/Main/Node[clientpuppet.minsk.epam.com]/Notify[Nginx is running.]/message: defined 'message' as 'Nginx is running.'[0m
+[mNotice: /Stage[main]/Mysql::Server::Root_password/Mysql_user[root@localhost]/password_hash: defined 'password_hash' as '*6BB4837EB74329105EE4568DDA7DC67ED2CA2AD9'[0m
+[mNotice: /Stage[main]/Mysql::Server::Root_password/File[/root/.my.cnf]/ensure: defined content as '{md5}960ec7bd2fa7258df86aced30e488492'[0m
+[mNotice: /Stage[main]/Main/Node[clientpuppet.minsk.epam.com]/Mysql_database[prod_mdb]/ensure: created[0m
+[mNotice: /Stage[main]/Main/Node[clientpuppet.minsk.epam.com]/Mysql_user[prod_user@localhost]/ensure: created[0m
+[mNotice: /Stage[main]/Main/Node[clientpuppet.minsk.epam.com]/Mysql_grant[prod_user@localhost/prod_mdb.*]/ensure: created[0m
+[mNotice: Applied catalog in 0.42 seconds[0m
