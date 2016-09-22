@@ -1,5 +1,9 @@
 ### Puppet task_13
-Task done used vagrantfiles from the last task11.
+Task done used vagrantfiles from the last tasks.
+
+Manifest => [site13.pp](site13.pp)
+
+Logfile =>[out13.log](out13.log)
 ##
 ![](/sources/Screenshot.png)
 ![](/sources/Screenshot-1.png)
