@@ -3,9 +3,6 @@ Task done used vagrantfiles from the last task11.
 ##
 ![](/sources/Screenshot.png)
 ![](/sources/Screenshot-1.png)
-#
-Changed to https://192.168.15.30/
-#
 ![](/sources/Screenshot-3.png)
 ![](/sources/Screenshot-4.png)
 ![](/sources/Screenshot-5.png)
